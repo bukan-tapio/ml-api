@@ -1,0 +1,9 @@
+pandas      
+matplotlib  
+numpy       
+tensorflow  
+PyPDF2      
+google-colab
+scikit-learn
+transformers
+os
